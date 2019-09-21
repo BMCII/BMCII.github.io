@@ -1,0 +1,79 @@
+{
+  "bands": [
+    {
+      "id": "01",
+      "logo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjCpf3G3t_kAhUNj1kKHaA0ALUQjRx6BAgBEAQ&url=https%3A%2F%2Fmetalinjection.net%2Ftoday-i-learned%2Frick-rubin-is-responsible-for-the-iconic-slayer-eagle-logo&psig=AOvVaw0nl-udzhH0aDulalwqpP1I&ust=1569080499552351",
+      "name": "Slayer",
+      "hometown": "Huntington Park, California",
+      "members": {
+        "member": [
+          {
+            "drums": "Dave Lombardo"
+          },
+          {
+            "rythm guitar": "Jeff Hanneman"
+          },
+          {
+            "lead guitar": "Kerry King"
+          },
+          {
+            "Bass guitar": "Tom Araya"
+          },
+          {
+            "vocals": "Tom Araya"
+          }
+        ]
+      }
+    },
+    {
+      "id": "02",
+      "logo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj9-b7e3t_kAhUmwFkKHUJaAr4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F95771929555589960%2F&psig=AOvVaw0xT0xOo1UY_Qq_1D2kCCYP&ust=1569080544569145",
+      "name": "Obituary",
+      "hometown": "Tampa, Florida",
+      "members": {
+        "member": [
+          {
+            "drums": "Donald Tardy"
+          },
+          {
+            "rythm guitar": "Trevor Peres"
+          },
+          {
+            "lead guitar": "Kenny Andrews"
+          },
+          {
+            "Bass guitar": "Terry Butler"
+          },
+          {
+            "vocals": "John Tardy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "03",
+      "logo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjW5a703t_kAhXEwFkKHSBqCrgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Flamb%2Bof%2Bgod&psig=AOvVaw2GvZsScUGaxSyuFXnNYZhz&ust=1569080588943995",
+      "name": "Lamb Of God",
+      "hometown": "Richmond, Virginia",
+      "members": {
+        "member": [
+          {
+            "drums": "Chris Adler"
+          },
+          {
+            "rythm guitar": "Willie Adler"
+          },
+          {
+            "lead guitar": "Mark Morton"
+          },
+          {
+            "Bass guitar": "John Campbell"
+          },
+          {
+            "vocals": "Randy Blythe"
+          }
+        ]
+      }
+    }
+  ]
+}
